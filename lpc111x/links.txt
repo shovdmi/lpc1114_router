@@ -1,0 +1,5 @@
+https://www.keil.com/dd/docs/arm/nxp/lpc11xx/lpc11xx.h
+https://github.com/ARMmbed/mbed-os/blob/master/targets/TARGET_NXP/TARGET_LPC11XX_11CXX/device/LPC11xx.h
+    https://github.com/ARMmbed/mbed-os/blob/master/targets/TARGET_NXP/TARGET_LPC11XX_11CXX/device/bitfields.h
+https://github.com/vsergeev/cmsis-templates/blob/lpc11xx/lpc11xx/LPC11xx.h
+https://github.com/catch22eu/LPC11xx-LPCXpresso-CMSIS/tree/master/gpio
